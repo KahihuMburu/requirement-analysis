@@ -1,7 +1,6 @@
 # requirement-analysis
 # Requirement Analysis in Software Development
 
-> A practical guide and working template for Requirement Analysis applied to a Booking Management project (ALX exercise).
 
 ---
 
@@ -9,7 +8,6 @@
 
 This repository contains a clear, instructor-friendly README that explains Requirement Analysis as part of the Software Development Life Cycle (SDLC). It includes definitions, the importance of requirement analysis, core activities, types of requirements (with examples for a booking management project), a use-case diagram (linked image), acceptance criteria guidance, and a short checklist for manual verification.
 
-Use this repo as a learning artefact or as a reference when preparing project documentation for ALX coursework or interviews.
 
 ---
 
